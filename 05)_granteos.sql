@@ -1,0 +1,1 @@
+grant select on STG_MP_USUARIOS_EXT to DW_LOAD;
